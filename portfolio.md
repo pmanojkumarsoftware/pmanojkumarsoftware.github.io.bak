@@ -4,6 +4,19 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+## What is your age?
+
+- Azure Face
+- Azure Blob Storage
+- Azure Serverless
+
+![image-preview](https://user-images.githubusercontent.com/74305791/98818873-29139700-2452-11eb-9b6d-e20649a7eaa6.png)
+
+
+[Demo](https://www.pythoncoach.in/who-am-i/) | **_#Azure_** | **_#ReactJS_**
+
+---
+
 ## World Trends
 
 - Observe change in stocks and view trending news in parallel.
@@ -11,7 +24,7 @@ permalink: /portfolio/
 
 ![image-preview](https://user-images.githubusercontent.com/1643802/78980490-9fa68a00-7b3b-11ea-8f43-e340af9a8c8e.png)
 
-[Demo](http://www.pythoncoach.in/react-stock-market-hacker-news-dashboard/) | [Source](https://github.com/pmontu/react-stock-market-hacker-news-dashboard) | **_#ReactJS_**
+[Source](https://github.com/pmontu/react-stock-market-hacker-news-dashboard) | **_#ReactJS_**
 
 ---
 
